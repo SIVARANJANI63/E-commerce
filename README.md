@@ -40,4 +40,4 @@ This project showcases an interactive **E-commerce Sales Dashboard** built using
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/ecommerce-tableau-dashboard.git
+   git clone https://github.com/SIVARANJANI63/ecommerce-tableau-dashboard.git
